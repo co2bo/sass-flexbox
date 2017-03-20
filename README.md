@@ -1,2 +1,4 @@
 # sass-flexbox
-A flexbox layout framework mixin for SASS
+A flexbox layout framework for SASS
+
+## More readme content to come
